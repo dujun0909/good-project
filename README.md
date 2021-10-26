@@ -16,3 +16,6 @@
 ## 三、Android 姓名
 - 豆瓣项目
 - https://github.com/forezp/banya
+
+- 开源中国
+- https://gitee.com/oschina/android-app
