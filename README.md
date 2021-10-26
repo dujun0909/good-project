@@ -19,3 +19,6 @@
 
 - 开源中国
 - https://gitee.com/oschina/android-app
+
+- 
+- https://www.jianshu.com/p/3916114d427e
