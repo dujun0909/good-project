@@ -25,3 +25,8 @@
 
 - 同安会计学会APP
 - https://github.com/Bingoliallen/takjxhApp
+
+## 四、书籍
+- 程序员小北 计算机书籍
+- https://github.com/liqvip/CS_Book
+
