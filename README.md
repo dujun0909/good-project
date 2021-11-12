@@ -6,6 +6,7 @@
 
 - vue3 + typescript + element-plus
 - https://github.com/kailong321200875/vue-element-plus-admin
+- https://github.com/qingqingxuan/vue-admin-work-x
 
 - vue3 + typescript + ant Design
 -  https://github.com/anncwb/vue-vben-admin
