@@ -10,6 +10,8 @@
 - vue3 + typescript + ant Design
 -  https://github.com/anncwb/vue-vben-admin
 
+- vue3 + typescript + Naive UI
+-  https://github.com/jekip/naive-ui-admin
 
 ## 二、小程序项目
 
@@ -30,3 +32,4 @@
 - 程序员小北 计算机书籍
 - https://github.com/liqvip/CS_Book
 
+- https://zhuanlan.zhihu.com/p/423995087
