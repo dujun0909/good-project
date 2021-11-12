@@ -33,3 +33,5 @@
 - https://github.com/liqvip/CS_Book
 
 - https://zhuanlan.zhihu.com/p/423995087
+
+- https://www.naiveui.com/zh-CN/os-theme/docs/community
