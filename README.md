@@ -29,7 +29,12 @@
 - 同安会计学会APP
 - https://github.com/Bingoliallen/takjxhApp
 
-## 四、书籍
+## 四、Java项目
+- 实战！Spring Boot Security+JWT前后端分离架构登录认证！
+- https://github.com/chenjiabing666/JavaFamily/tree/master/spring-security
+- 介绍 https://juejin.cn/post/7036556688303849480
+
+## 五、书籍
 - 程序员小北 计算机书籍
 - https://github.com/liqvip/CS_Book
 
