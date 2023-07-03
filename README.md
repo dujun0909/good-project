@@ -8,7 +8,8 @@
 - https://github.com/kailong321200875/vue-element-plus-admin
 - https://github.com/qingqingxuan/vue-admin-work-x
 - https://github.com/pure-admin/vue-pure-admin
-
+- https://github.com/lyt-Top/vue-next-admin
+- https://zhuanlan.zhihu.com/p/584484310
 - vue3 + typescript + ant Design
 -  https://github.com/anncwb/vue-vben-admin
 
