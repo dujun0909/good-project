@@ -36,6 +36,10 @@
 - https://github.com/chenjiabing666/JavaFamily/tree/master/spring-security
 - 介绍 https://juejin.cn/post/7036556688303849480
 
+- 敏感词查询过滤项目
+- https://github.com/houbb/sensitive-word
+- https://github.com/k5h9999/keywordfilter
+
 ## 五、书籍
 - 程序员小北 计算机书籍
 - https://github.com/liqvip/CS_Book
